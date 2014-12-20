@@ -4,8 +4,8 @@ cmsplugin-comments
 
 |ci|
 
-.. |ci| image:: https://travis-ci.org/satyrius/cmsplugin-articles.svg?branch=master
-    :target: https://travis-ci.org/satyrius/cmsplugin-articles
+.. |ci| image:: https://travis-ci.org/satyrius/cmsplugin-comments.svg?branch=master
+    :target: https://travis-ci.org/satyrius/cmsplugin-comments
 
 Django CMS plugin to add comments for any page
 
