@@ -2,6 +2,11 @@
 cmsplugin-comments
 ==================
 
+|ci|
+
+.. |ci| image:: https://travis-ci.org/satyrius/cmsplugin-articles.svg?branch=master
+    :target: https://travis-ci.org/satyrius/cmsplugin-articles
+
 Django CMS plugin to add comments for any page
 
 Requirements
